@@ -62,7 +62,7 @@
   link1.innerHTML = '<a href="https://fatgarfield777.xyz" target="_blank">%E2%9D%8C - fatgarfield777.xyz</a>';
   var link2 = document.createElement('li');
   link2.innerHTML = '<a href="https://ug17.github.io" target="_blank">%E2%9C%85 - ug17.github.io</a>';
-  var link3 = document.createElement('li');
+    var link3 = document.createElement('li');
   link3.innerHTML = '<a href="https://ubg17.up.railway.app" target="_blank">%E2%9C%85 - ubg17.up.railway.app</a>';
   var link4 = document.createElement('li');
   link4.innerHTML = '<a href="https://ug17.up.railway.app" target="_blank">%E2%9C%85 - ug17.up.railway.app</a>';
